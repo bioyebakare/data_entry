@@ -1,6 +1,6 @@
 # Zillow Rental Data Entry Bot
 
-A Python automation script that scrapes rental listing data from Zillow and automatically fills out a Google Form with the details — no manual copy-pasting needed.
+A Python automation script that scrapes rental listing data from Zillow and automatically fills out a Google Form with the details, no manual copy-pasting needed.
 
 ## What it does
 
@@ -18,4 +18,4 @@ A Python automation script that scrapes rental listing data from Zillow and auto
 ## Notes
 
 - Requires Google Chrome and a matching ChromeDriver version.
-- Selenium locators are tied to Zillow and Google Forms' current page structure — if either site updates their layout, selectors may need adjusting.
+- Selenium locators are tied to Zillow and Google Forms' current page structure, if either site updates their layout, selectors may need adjusting.
